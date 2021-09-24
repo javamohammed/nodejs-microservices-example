@@ -1,0 +1,55 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/nodejs-microservices-example/node_modules/
+# config
+/nodejs-microservices-example/src/config.ts
+
+/nodejs-microservices-example/.pnp
+/nodejs-microservices-example.pnp.js
+
+# testing
+/nodejs-microservices-example/coverage
+
+# production
+/nodejs-microservices-example/build
+
+# misc
+/nodejs-microservices-example/.DS_Store
+/nodejs-microservices-example/.env.local
+/nodejs-microservices-example/.env.development.local
+/nodejs-microservices-example/.env.test.local
+/nodejs-microservices-example/.env.production.local
+
+/nodejs-microservices-example/npm-debug.log*
+/nodejs-microservices-example/yarn-debug.log*
+/nodejs-microservices-example/yarn-error.log*
+
+
+# dependencies
+/nodejs-microservices-example-main/node_modules/
+
+
+/nodejs-microservices-example-main/.pnp
+/nodejs-microservices-example-main/.pnp.js
+
+# testing
+/nodejs-microservices-example-main/coverage
+
+# production
+/nodejs-microservices-example-main/build
+
+# misc
+/nodejs-microservices-example-main/.DS_Store
+/nodejs-microservices-example-main/.env.local
+/nodejs-microservices-example-main/.env.development.local
+/nodejs-microservices-example-main/.env.test.local
+/nodejs-microservices-example-main/.env.production.local
+
+/nodejs-microservices-example-main/npm-debug.log*
+/nodejs-microservices-example-main/yarn-debug.log*
+/nodejs-microservices-example-main/yarn-error.log*
+
+
+# config
+/nodejs-microservices-example-main/src/config.ts
